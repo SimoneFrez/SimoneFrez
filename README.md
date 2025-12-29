@@ -96,19 +96,19 @@ Backend completo para gestão de vendas e estoque.
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" /> 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
 
-[🔗 Ver Repositório](https://github.com/SimoneFrez/seu-repositorio-aqui)
+[🔗 Ver Repositório](https://github.com/SimoneFrez/AuditFlow)
 
 ---
 
 ### 📊 Dashboard React
-Interface administrativa moderna e responsiva.
+Interface mobile moderna e responsiva.
 
 **Tech Stack:**  
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 
-[🔗 Ver Repositório](https://github.com/SimoneFrez/seu-outro-repositorio)
+[🔗 Ver Repositório](https://github.com/SimoneFrez/my-first-mobile)
 <br><br>
 
 ## 🐍 Gráfico de Atividades

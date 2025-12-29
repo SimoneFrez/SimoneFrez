@@ -1,50 +1,43 @@
 <div align="center">
-  <!-- Terminal hacker SIMPLIFICADO e FUNCIONAL -->
+  <!-- Terminal hacker - APENAS PARA EFEITO VISUAL -->
   <div style="background: #0a0a0a; border: 2px solid #00ff00; border-radius: 10px; padding: 20px; max-width: 800px; overflow: hidden; font-family: 'Courier New', monospace;">
     <pre style="color: #00ff00; margin: 0; font-size: 14px; line-height: 1.5;">
-<span style="color: #00ff88;">$</span> whoami
-<span style="color: #00ff00;">>></span> Simone Frez
-
-<span style="color: #00ff88;">$</span> cat skills.txt
-<span style="color: #00ff00;">>></span> Full Stack Developer
-<span style="color: #00ff00;">>></span> Java | Spring Boot | React | TypeScript
-<span style="color: #00ff00;">>></span> Software Engineering Student
-
-<span style="color: #00ff88;">$</span> ./start_portfolio.sh
-<span style="color: #00ff00;">>></span> Initializing GitHub profile...
-<span style="color: #00ff00;">>></span> <span style="color: #0ff;">[██████████] 100%</span>
-<span style="color: #00ff00;">>></span> <strong style="color: #ff0;">PROFILE READY</strong>
+<span style="color: #00ff88;">$</span> loading_profile.sh --user=SimoneFrez
+<span style="color: #00ff00;">>></span> <span style="color: #0ff;">[##########] 100%</span>
+<span style="color: #00ff00;">>></span> <strong style="color: #ff0;">PROFILE LOADED SUCCESSFULLY</strong>
 <span style="color: #00ff88;">█</span>
     </pre>
   </div>
 
   <br><br>
   
-  <h1 style="color: #00ff00; font-family: 'Courier New', monospace;">Simone Frez 👩‍💻</h1>
+  <!-- APRESENTAÇÃO PRINCIPAL (sem repetir) -->
+  <h1 style="color: #00ff00; font-family: 'Courier New', monospace;">Simone Frez</h1>
   
   <p align="center">
-    <code style="color: #00ff88; background: #111; padding: 5px 10px; border-radius: 5px; font-family: 'Courier New', monospace;">
-      Full_Stack_Developer | Java_Spring | React_TypeScript
-    </code><br>
+    <strong style="color: #00ff88; font-family: 'Courier New', monospace;">
+      Full Stack Developer | Java & Spring Boot Specialist
+    </strong><br>
     <span style="color: #888; font-family: 'Courier New', monospace;">
-      <em>Software Engineering Student | 7th Period</em>
+      <em>Building scalable systems with clean architecture</em>
     </span>
   </p>
 
+  <!-- BADGES DE CONTATO -->
   <p align="center">
     <a href="https://www.linkedin.com/in/simone-da-silva-645337138" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a">
     </a>
     <a href="https://instagram.com/DevFrez" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      <img src="https://img.shields.io/badge/FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a">
     </a>
     <a href="https://www.youtube.com/@DevFrez" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      <img src="https://img.shields.io/badge/SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a0a0a">
     </a>
   </p>
 </div>
 
-<br>
+<br><br>
 
 ```javascript
 const simoneFrez = {
@@ -60,10 +53,11 @@ const simoneFrez = {
 };
 ```
 
+<br><br>
 
 ## 🛠️ Core Stack & Tecnologias
 <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p>
-
+<br><br>
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
@@ -73,6 +67,7 @@ const simoneFrez = {
   </picture>
 </p>
 
+<br><br>
 
 ## 📊 GitHub Analytics
 
@@ -89,6 +84,7 @@ const simoneFrez = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimoneFrez&theme=tokyonight" alt="GitHub Stats" height="180em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SimoneFrez&theme=tokyonight" alt="Productive Time" height="180em" />
 </p>
+<br><br>
 
 ## 🚀 Projetos em Destaque
 
@@ -103,6 +99,7 @@ Backend completo para gestão de vendas e estoque.
 [🔗 Ver Repositório](https://github.com/SimoneFrez/seu-repositorio-aqui)
 
 ---
+<br><br>
 
 ### 📊 Dashboard React
 Interface administrativa moderna e responsiva.
@@ -113,6 +110,7 @@ Interface administrativa moderna e responsiva.
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 
 [🔗 Ver Repositório](https://github.com/SimoneFrez/seu-outro-repositorio)
+<br><br>
 
 ## 🐍 Gráfico de Atividades
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimoneFrez&theme=github-dark&area=true&hide_border=true&custom_title=Minhas%20Contribuições%20Diárias" alt="Activity Graph" width="100%"> </p>

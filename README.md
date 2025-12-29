@@ -1,4 +1,9 @@
-<img src="images/Gemini_Generated_Image_jukqcujukqcujukq.png" alt="Banner Fullstack" width="100%">
+<p align="center">
+  <img src="images/Gemini_Generated_Image_6tpdix6tpdix6tpd.png" width="100%" maxHeight="300px" style="object-fit: cover;">
+</p>
+
+<h2 align="center">Olá! Eu sou a Simone Frez 👋</h2>
+<p align="center">Engenheira de Software | Full Stack Developer</p>
 ## Bem-vindo(a) ao perfil de Simone Frez
 
  <div>

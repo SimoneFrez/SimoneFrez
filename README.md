@@ -1,85 +1,45 @@
 <div align="center">
-  <!-- Terminal hacker com efeito de digitação ANIMADO -->
-  <div style="background: #000; border: 1px solid #00ff00; border-radius: 10px; padding: 20px; font-family: 'Courier New', monospace; color: #0f0; text-align: left; max-width: 800px; overflow: hidden;">
-    <div id="hacker-terminal">
-      <span class="prompt">$</span> <span class="typing">whoami</span><br>
-      <span class="output">>> Simone Frez</span><br><br>
-      
-      <span class="prompt">$</span> <span class="typing">cat skills.txt</span><br>
-      <span class="output">>> Full Stack Developer</span><br>
-      <span class="output">>> Java | Spring Boot | React | TypeScript</span><br>
-      <span class="output">>> Software Engineering Student</span><br><br>
-      
-      <span class="prompt">$</span> <span class="typing">./start_portfolio.sh</span><br>
-      <span class="output">>> Initializing GitHub profile...</span><br>
-      <span class="output">>> <span style="color: #0ff;">[██████████] 100%</span></span><br>
-      <span class="output">>> <strong style="color: #ff0;">PROFILE READY</strong></span><br>
-      <span class="prompt blink">█</span>
-    </div>
+  <!-- Terminal hacker SIMPLIFICADO e FUNCIONAL -->
+  <div style="background: #0a0a0a; border: 2px solid #00ff00; border-radius: 10px; padding: 20px; max-width: 800px; overflow: hidden; font-family: 'Courier New', monospace;">
+    <pre style="color: #00ff00; margin: 0; font-size: 14px; line-height: 1.5;">
+<span style="color: #00ff88;">$</span> whoami
+<span style="color: #00ff00;">>></span> Simone Frez
+
+<span style="color: #00ff88;">$</span> cat skills.txt
+<span style="color: #00ff00;">>></span> Full Stack Developer
+<span style="color: #00ff00;">>></span> Java | Spring Boot | React | TypeScript
+<span style="color: #00ff00;">>></span> Software Engineering Student
+
+<span style="color: #00ff88;">$</span> ./start_portfolio.sh
+<span style="color: #00ff00;">>></span> Initializing GitHub profile...
+<span style="color: #00ff00;">>></span> <span style="color: #0ff;">[██████████] 100%</span>
+<span style="color: #00ff00;">>></span> <strong style="color: #ff0;">PROFILE READY</strong>
+<span style="color: #00ff88;">█</span>
+    </pre>
   </div>
-  
-  <style>
-    .prompt { color: #0f0; }
-    .typing { 
-      color: #0ff;
-      border-right: 2px solid #0f0;
-      animation: typing 3s steps(20) 1s forwards, blink-caret 0.75s step-end infinite;
-      white-space: nowrap;
-      overflow: hidden;
-      width: 0;
-    }
-    .output { 
-      color: #0f0;
-      opacity: 0;
-      animation: fadeIn 0.5s forwards;
-    }
-    .output:nth-child(2) { animation-delay: 1.5s; }
-    .output:nth-child(3) { animation-delay: 2s; }
-    .output:nth-child(4) { animation-delay: 2.5s; }
-    .output:nth-child(5) { animation-delay: 3s; }
-    .output:nth-child(6) { animation-delay: 3.5s; }
-    .output:nth-child(7) { animation-delay: 4s; }
-    .output:nth-child(8) { animation-delay: 4.5s; }
-    .output:nth-child(9) { animation-delay: 5s; }
-    .blink { animation: blink 1s infinite 6s; }
-    @keyframes typing { 
-      to { width: 100%; }
-    }
-    @keyframes blink-caret { 
-      from, to { border-color: transparent; } 
-      50% { border-color: #0f0; } 
-    }
-    @keyframes fadeIn {
-      to { opacity: 1; }
-    }
-    @keyframes blink { 
-      0%, 100% { opacity: 1; } 
-      50% { opacity: 0; } 
-    }
-  </style>
 
   <br><br>
   
-  <h1 style="color: #00ff00; font-family: 'Courier New', monospace;">> Simone_Frez</h1>
+  <h1 style="color: #00ff00; font-family: 'Courier New', monospace;">Simone Frez 👩‍💻</h1>
   
   <p align="center">
     <code style="color: #00ff88; background: #111; padding: 5px 10px; border-radius: 5px; font-family: 'Courier New', monospace;">
-      Full_Stack_Dev | Java_Spring | React_TypeScript
+      Full_Stack_Developer | Java_Spring | React_TypeScript
     </code><br>
     <span style="color: #888; font-family: 'Courier New', monospace;">
-      <em>Software Engineering Student @ 7th Period</em>
+      <em>Software Engineering Student | 7th Period</em>
     </span>
   </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/simone-da-silva-645337138" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://instagram.com/DevFrez" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://www.youtube.com/@DevFrez" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a0a0a">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
   </p>
 </div>

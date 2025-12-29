@@ -48,11 +48,7 @@ Dashboard React	Interface administrativa moderna e responsiva.	React, TypeScript
 🐍 Gráfico de Atividades
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimoneFrez&theme=github-dark&area=true&hide_border=true&custom_title=Minhas%20Contribuições%20Diárias" alt="Activity Graph" width="100%"> </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://simonefrez.github.io/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
-</p>
+![Snake animation](https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/main/github-contribution-grid-snake.svg)
 
 
 📫 Contato

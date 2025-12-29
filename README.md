@@ -1,5 +1,6 @@
+<img src="images/Gemini_Generated_Image_jukqcujukqcujukq.png" alt="Banner Fullstack" width="100%">
 ## Bem-vindo(a) ao perfil de Simone Frez
- 
+
  <div>
    <a href="https://github.com/SimoneFrez">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimoneFrez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

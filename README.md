@@ -26,16 +26,21 @@ const simoneFrez = {
    technologies: {
       backEnd: ["Java", "Spring Boot", "SQL (Postgres/MySQL)"],
       frontEnd: ["React", "JavaScript", "TypeScript"],
-      mobile: ["Mobile Development"],
+      mobile: ["React Native", "Flutter"],
       architecture: ["Clean Code", "MVC", "REST APIs"]
    },
    currentFocus: "Building scalable and clean software architectures"
 };
-🛠️ Core Stack & Tecnologias
-<p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Postgres-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" /><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Mobile-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-play%26logoColor%3Dwhite" /></p>📊
 
-Estatísticas e Desempenho
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimoneFrez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneFrez&layout=compact&langs_count=10&theme=tokyonight" /></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SimoneFrez&theme=tokyonight" alt="GitHub Streak" /></p>
-🚀 Projetos em DestaqueProjetoDescriçãoTech StackLinkAPI E-CommerceBackend completo para gestão de vendas e estoque.
-📂 Ver RepoDashboard ReactInterface administrativa moderna e responsiva.
-📂 Ver Repo🐍 Contribution Snake<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/output/github-contribution-grid-snake.svg"><img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/output/github-contribution-grid-snake.svg"></picture></div><p align="center"><img src="https://img.shields.io/badge/Contato-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></p>
+🛠️ Core Stack & Tecnologias
+<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p>
+📊 Estatísticas e Desempenho
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimoneFrez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneFrez&layout=compact&langs_count=10&theme=tokyonight" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimoneFrez&theme=tokyonight" alt="GitHub Streak" /> </p>
+🚀 Projetos em Destaque
+Projeto	Descrição	Tech Stack	Link
+API E-Commerce	Backend completo para gestão de vendas e estoque.	Java, Spring Boot, PostgreSQL	📂 Ver Repo
+Dashboard React	Interface administrativa moderna e responsiva.	React, TypeScript, Tailwind	📂 Ver Repo
+🐍 Contribution Snake
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/output/github-contribution-grid-snake.svg"> </picture> </div>
+📫 Contato
+<p align="center"> <a href="mailto:simonefrez25@gmail.com"> <img src="https://img.shields.io/badge/Enviar_Email-simonefrez25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> ```

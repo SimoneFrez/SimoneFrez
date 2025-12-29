@@ -50,7 +50,9 @@ Dashboard React	Interface administrativa moderna e responsiva.	React, TypeScript
 
 ## 🐍 Contribution Snake
 
-![GitHub Stats](https://simonefrez.github.io/github-stats.svg)
+<p align="center">
+  <img src="https://github.com/SimoneFrez/SimoneFrez/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
 
 📫 Contato
 <p align="center"> <a href="mailto:simonefrez25@gmail.com"> <img src="https://img.shields.io/badge/Enviar_Email-simonefrez25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>

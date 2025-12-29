@@ -47,9 +47,7 @@ Dashboard React	Interface administrativa moderna e responsiva.	React, TypeScript
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimoneFrez&theme=tokyonight" alt="Contributions" width="100%">
-</p>
+![Snake animation](https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/main/dist/github-contribution-grid-snake.svg)
 
 📫 Contato
 <p align="center"> <a href="mailto:simonefrez25@gmail.com"> <img src="https://img.shields.io/badge/Enviar_Email-simonefrez25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>

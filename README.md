@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/Gemini_Generated_Image_ebbxwaebbxwaebbx.png" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 15px;" alt="Banner Simone Frez">
+  <img src="images/Gemini_Generated_Image_ebbxwaebbxwaebbx.png" width="50%" style="max-height: 100px; object-fit: cover; border-radius: 15px;" alt="Banner Simone Frez">
 
   <br><br>
 

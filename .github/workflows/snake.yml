@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,15 +12,19 @@ jobs:
       contents: write
     
     steps:
-      - uses: actions/checkout@v4
-      
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Generate Snake
+        uses: jstrieb/github-stats@v2
         with:
-          github_user_name: SimoneFrez
-          svg_out_path: github-contribution-grid-snake.svg
-      
-      - uses: JamesIves/github-pages-deploy-action@v4
+          username: SimoneFrez
+          output: svgs
+          svg_only: true
+          
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          folder: .
-          branch: output
-          clean: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./svgs
+          publish_branch: gh-pages

@@ -1,58 +1,33 @@
 <div align="center">
-  <img src="images/Gemini_Generated_Image_ebbxwaebbxwaebbx.png" width="100%" height="300px" style="object-fit: cover; border-radius: 15px; border: 1px solid #30363d;" alt="Banner Simone Frez">
-  
-  <br>
-  
-  <h1>Simone Frez</h1>
+  <img src="images/Gemini_Generated_Image_ebbxwaebbxwaebbx.png" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 15px; border: 1px solid #30363d;" alt="Banner Simone Frez">
+
+  <br><br>
+
+  <h1>Simone Frez 👋</h1>
+
   <p align="center">
-    <strong>Software Engineer | Full Stack Developer | Tech Innovation</strong><br>
-    <em>Especialista em arquitetura de sistemas e desenvolvimento de soluções escaláveis.</em>
+    <strong>Full Stack Developer | Java & Spring Boot | Frontend React & Mobile</strong><br>
+    <em>Graduanda em Engenharia de Software (7º Período)</em>
   </p>
 
-  <div align="center">
+  <p align="center">
     <a href="https://www.linkedin.com/in/simone-da-silva-645337138" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
     <a href="https://instagram.com/DevFrez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
     <a href="https://www.youtube.com/@DevFrez" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  </div>
+  </p>
 </div>
 
 <br>
 
----
-
-### 🛠️ Core Stack & Tecnologias
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 📊 Estatísticas e Desempenho
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimoneFrez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneFrez&layout=compact&langs_count=10&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimoneFrez&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **API E-Commerce** | Backend completo para gestão de vendas, estoque e usuários. | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square) | [📂 Ver Repo](https://github.com/SimoneFrez/API-ECommerce) |
-| **Mini Site Interativo** | Landing page responsiva com foco em performance e UX. | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square) | [📂 Ver Repo](https://github.com/SimoneFrez/mini-site) |
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Contato-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p>
+```javascript
+const simoneFrez = {
+   role: "Full Stack Developer",
+   education: "Software Engineering - 7th Period",
+   technologies: {
+      backEnd: ["Java", "Spring Boot", "SQL (PostgreSQL/MySQL)"],
+      frontEnd: ["React", "JavaScript", "TypeScript"],
+      mobile: ["Mobile Development Focus"],
+      architecture: ["Clean Code", "MVC", "REST APIs"]
+   },
+   currentFocus: "Building scalable and high-performance full-stack applications"
+};

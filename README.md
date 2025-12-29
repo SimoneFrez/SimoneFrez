@@ -47,8 +47,21 @@ const simoneFrez = {
 </p>
 
 
-## 📊 Estatísticas e Desempenho
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimoneFrez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneFrez&layout=compact&langs_count=10&theme=tokyonight" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimoneFrez&theme=tokyonight" alt="GitHub Streak" /> </p>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimoneFrez&theme=tokyonight" alt="Profile Details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimoneFrez&theme=tokyonight" alt="Repos per Language" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SimoneFrez&theme=tokyonight" alt="Most Commit Language" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimoneFrez&theme=tokyonight" alt="GitHub Stats" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SimoneFrez&theme=tokyonight" alt="Productive Time" height="180em" />
+</p>
 
 ## 🚀 Projetos em Destaque
 

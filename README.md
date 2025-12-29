@@ -45,11 +45,15 @@ Projeto	Descrição	Tech Stack	Link
 API E-Commerce	Backend completo para gestão de vendas e estoque.	Java, Spring Boot, PostgreSQL	📂 Ver Repo
 Dashboard React	Interface administrativa moderna e responsiva.	React, TypeScript, Tailwind	📂 Ver Repo
 
+🐍 Gráfico de Atividades
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimoneFrez&theme=github-dark&area=true&hide_border=true&custom_title=Minhas%20Contribuições%20Diárias" alt="Activity Graph" width="100%"> </p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://simonefrez.github.io/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
 </p>
+
 
 📫 Contato
 <p align="center"> <a href="mailto:simonefrez25@gmail.com"> <img src="https://img.shields.io/badge/Enviar_Email-simonefrez25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>

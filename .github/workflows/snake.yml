@@ -1,30 +1,27 @@
-name: Generate Snake
+name: Update Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+      
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        
       - name: Generate Snake
-        uses: jstrieb/github-stats@v2
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
-          username: SimoneFrez
-          output: svgs
-          svg_only: true
+          github_user_name: SimoneFrez
+          outputs: github-contribution-grid-snake.svg
           
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./svgs
-          publish_branch: gh-pages
+          target_branch: output
+          build_dir: .
+          keep_history: true

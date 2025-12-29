@@ -99,7 +99,6 @@ Backend completo para gestão de vendas e estoque.
 [🔗 Ver Repositório](https://github.com/SimoneFrez/seu-repositorio-aqui)
 
 ---
-<br><br>
 
 ### 📊 Dashboard React
 Interface administrativa moderna e responsiva.

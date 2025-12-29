@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/especialistas-em-seguranca-cibernetica-trabalhando-com-dispositivos-tecnologicos-e-luzes-de-neon.jpg" width="100%" height="00px" style="object-fit: cover;" alt="Banner Tech">
+  <img src="images/Gemini_Generated_Image_ebbxwaebbxwaebbx.png" width="100%" height="00px" style="object-fit: cover;" alt="Banner Tech">
   <h1>Olá! Eu sou a Simone Frez 👋</h1>
   <p><strong>Engenheira de Software | Full Stack Developer | Tech & Inovação</strong><br>
   Especialista em transformar café em código escalável e soluções inovadoras.</p>

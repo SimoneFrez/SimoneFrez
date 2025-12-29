@@ -4,27 +4,32 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-        
-      - name: Generate Snake
-        uses: Platane/snk@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: SimoneFrez
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: Commit and Push
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: snake-bot
-          author_email: snake-bot@users.noreply.github.com
-          message: "Update snake animation"
-          add: "dist/"
-          push: true
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+      
+      - name: Push snake to repository
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push

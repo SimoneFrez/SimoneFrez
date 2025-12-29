@@ -37,6 +37,16 @@ const simoneFrez = {
 🛠️ Core Stack & Tecnologias
 <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p>
 
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/main/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/main/dist/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
 📊 Estatísticas e Desempenho
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimoneFrez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneFrez&layout=compact&langs_count=10&theme=tokyonight" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimoneFrez&theme=tokyonight" alt="GitHub Streak" /> </p>
 
@@ -48,13 +58,5 @@ Dashboard React	Interface administrativa moderna e responsiva.	React, TypeScript
 🐍 Gráfico de Atividades
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimoneFrez&theme=github-dark&area=true&hide_border=true&custom_title=Minhas%20Contribuições%20Diárias" alt="Activity Graph" width="100%"> </p>
 
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/main/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/main/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/main/dist/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 

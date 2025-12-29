@@ -2,35 +2,27 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Roda diariamente à meia-noite
-  workflow_dispatch:      # Permite executar manualmente
-  push:
-    branches:
-      - main             # Roda quando você faz push no main
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository content
+      - name: Checkout
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-
+        
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk@master
         with:
-          github_user_name: SimoneFrez  # ALTERE AQUI: seu username
+          github_user_name: SimoneFrez
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Commit and push if changed
-        uses: EndBug/add-and-commit@v9
+          
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          author_name: snake-bot
-          author_email: snake-bot@users.noreply.github.com
-          message: "Generate contribution snake"
-          add: "dist/"
-          push: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output

@@ -20,9 +20,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          author_name: snake-bot
+          author_email: snake-bot@users.noreply.github.com
+          message: "Update snake animation"
+          add: "dist/"
+          push: true

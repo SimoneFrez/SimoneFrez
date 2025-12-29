@@ -48,7 +48,7 @@ Dashboard React	Interface administrativa moderna e responsiva.	React, TypeScript
 ## 🐍 Minhas Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SimoneFrez/SimoneFrez/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimoneFrez&theme=tokyo-night&hide_border=true" alt="Activity graph" />
 </p>
 
 📫 Contato

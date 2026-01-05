@@ -88,15 +88,16 @@ const simoneFrez = {
 
 ## 🚀 Projetos em Destaque
 
-### 📦 API E-Commerce
-Backend completo para gestão de vendas e estoque.
+### 📦 MarketSync | Automação de Inventário & Dashboard BI
+Ecossistema de automação end-to-end desenvolvido em Python e SQL para sincronização de estoques entre marketplaces e bases locais, com interface visual em Streamlit para monitoramento de KPIs e integridade de dados.
 
 **Tech Stack:**  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 
-[🔗 Ver Repositório](https://github.com/SimoneFrez/AuditFlow)
+[🔗 Ver Repositório]((https://github.com/SimoneFrez/MarketSync-Python-Automation))
 
 ---
 

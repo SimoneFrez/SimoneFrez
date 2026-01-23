@@ -97,7 +97,7 @@ Ecossistema de automação end-to-end desenvolvido em Python e SQL para sincroni
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 
-[🔗 Ver Repositório]((https://github.com/SimoneFrez/SincroEstoque))
+[🔗 Ver Repositório](https://github.com/SimoneFrez/SincroEstoque)
 
 ---
 
@@ -112,7 +112,7 @@ API robusta para validação estratégica de aportes financeiros e controle de e
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white" /> 
 <img src="https://img.shields.io/badge/H2_Database-003545?style=flat&logo=h2&logoColor=white" />
 
-[🔗 Ver Repositório]((https://github.com/SimoneFrez/Sentinela-FGC/tree/master))
+[🔗 Ver Repositório](https://github.com/SimoneFrez/Sentinela-FGC/tree/master)
 
 ---
 
@@ -124,7 +124,7 @@ Interface mobile moderna e responsiva.
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 
-[🔗 Ver Repositório]((https://github.com/SimoneFrez/AuditFlow))
+[🔗 Ver Repositório](https://github.com/SimoneFrez/AuditFlow)
 <br><br>
 
 ## 🐍 Gráfico de Atividades

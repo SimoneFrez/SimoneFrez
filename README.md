@@ -124,7 +124,7 @@ Interface mobile moderna e responsiva.
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 
-[🔗 Ver Repositório](https://github.com/SimoneFrez/my-first-mobile)
+[🔗 Ver Repositório]((https://github.com/SimoneFrez/AuditFlow))
 <br><br>
 
 ## 🐍 Gráfico de Atividades

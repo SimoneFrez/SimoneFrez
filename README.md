@@ -88,7 +88,7 @@ const simoneFrez = {
 
 ## 🚀 Projetos em Destaque
 
-### 📦 MarketSync | Automação de Inventário & Dashboard BI
+### 📦 SincroEstoque | Automação de Inventário & Dashboard BI
 Ecossistema de automação end-to-end desenvolvido em Python e SQL para sincronização de estoques entre marketplaces e bases locais, com interface visual em Streamlit para monitoramento de KPIs e integridade de dados.
 
 **Tech Stack:**  
@@ -97,7 +97,7 @@ Ecossistema de automação end-to-end desenvolvido em Python e SQL para sincroni
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 
-[🔗 Ver Repositório]((https://github.com/SimoneFrez/MarketSync-Python-Automation))
+[🔗 Ver Repositório]((https://github.com/SimoneFrez/SincroEstoque))
 
 ---
 

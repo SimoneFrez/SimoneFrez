@@ -101,7 +101,7 @@ Ecossistema de automação end-to-end desenvolvido em Python e SQL para sincroni
 
 ---
 
-### 🛡️ Guardians Fin | Monitoramento de Risco & Compliance FGC
+### 🛡️ Sentinela-FGC | Monitoramento de Risco & Compliance FGC
 API robusta para validação estratégica de aportes financeiros e controle de exposição ao teto do FGC. Desenvolvida sob princípios de Clean Architecture e infraestrutura totalmente conteinerizada com Docker Compose, a solução automatiza o cálculo de risco em tempo real e assegura conformidade na gestão de ativos bancários.
 
 **Tech Stack:**  
@@ -112,7 +112,7 @@ API robusta para validação estratégica de aportes financeiros e controle de e
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white" /> 
 <img src="https://img.shields.io/badge/H2_Database-003545?style=flat&logo=h2&logoColor=white" />
 
-[🔗 Ver Repositório]((https://github.com/SimoneFrez/guardians-fin/tree/master))
+[🔗 Ver Repositório]((https://github.com/SimoneFrez/Sentinela-FGC/tree/master))
 
 ---
 

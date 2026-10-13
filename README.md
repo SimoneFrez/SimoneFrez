@@ -16,7 +16,7 @@
   
   <p align="center">
     <strong style="color: #00ff88; font-family: 'Courier New', monospace;">
-      Full Stack Developer | Java & Spring Boot Specialist
+      Desenvolvedora Java Júnior | Java · Spring Boot · APIs REST · SQL
     </strong><br>
     <span style="color: #888; font-family: 'Courier New', monospace;">
       <em>Building scalable systems with clean architecture</em>
@@ -41,22 +41,53 @@
 
 ```javascript
 const simoneFrez = {
-   role: "Full Stack Developer",
-   education: "Software Engineering - 7th Period",
+   role: "Desenvolvedora Java Júnior",
+   education: "Engenharia de Software - 7º período (Estácio)",
    technologies: {
-      backEnd: ["Java", "Spring Boot", "SQL (Postgres/MySQL)"],
-      frontEnd: ["React", "JavaScript", "TypeScript"],
-      mobile: ["React Native", "Flutter"],
-      architecture: ["Clean Code", "MVC", "REST APIs"]
+      backEnd: ["Java", "Spring Boot", "Spring Data JPA", "SQL"],
+      tools: ["Git", "GitHub", "Maven", "AWS (re/Start)"],
+      others: ["Python", "C#", ".NET"],
+      architecture: ["Arquitetura em camadas", "APIs REST", "Orientação a Objetos"]
    },
-   currentFocus: "Building scalable and clean software architectures"
+   currentFocus: "Testes com JUnit e Mockito, boas práticas em APIs REST e AWS"
 };
 ```
 
 <br><br>
 
 ## 🛠️ Core Stack & Tecnologias
-<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
+
+<br><br>
+
+## 🚀 Projetos em Destaque
+
+### 📅 CRUD Agendador de Horários | API REST em Java e Spring Boot
+API REST para agendamento de serviços de pequenos negócios (barbearias, clínicas e salões), com criação, consulta da agenda por dia, alteração e cancelamento de agendamentos. Possui regra de negócio que impede o agendamento do mesmo serviço em horário já ocupado, com código organizado em camadas (controller, service, repository e entity).
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/H2_Database-09476B?style=flat" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+
+[🔗 Ver Repositório](https://github.com/SimoneFrez/CRUD-agendador-horarios.git)
+
+---
+
+
+
 <br><br>
 ## 🐍 Contribution Snake
 <p align="center">
@@ -85,50 +116,6 @@ const simoneFrez = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SimoneFrez&theme=tokyonight" alt="Productive Time" height="180em" />
 </p>
 <br><br>
-
-## 🚀 Projetos em Destaque
-
-### 📦 SincroEstoque | Automação de Inventário & Dashboard BI
-Ecossistema de automação end-to-end desenvolvido em Python e SQL para sincronização de estoques entre marketplaces e bases locais, com interface visual em Streamlit para monitoramento de KPIs e integridade de dados.
-
-**Tech Stack:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-
-[🔗 Ver Repositório](https://github.com/SimoneFrez/SincroEstoque)
-
----
-
-### 🛡️ Sentinela-FGC | Monitoramento de Risco & Compliance FGC
-API robusta para validação estratégica de aportes financeiros e controle de exposição ao teto do FGC. Desenvolvida sob princípios de Clean Architecture e infraestrutura totalmente conteinerizada com Docker Compose, a solução automatiza o cálculo de risco em tempo real e assegura conformidade na gestão de ativos bancários.
-
-**Tech Stack:**  
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white" /> 
-<img src="https://img.shields.io/badge/H2_Database-003545?style=flat&logo=h2&logoColor=white" />
-
-[🔗 Ver Repositório](https://github.com/SimoneFrez/Sentinela-FGC/tree/master)
-
----
-
-### 📊 Dashboard React
-Interface mobile moderna e responsiva.
-
-**Tech Stack:**  
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-
-[🔗 Ver Repositório](https://github.com/SimoneFrez/AuditFlow)
-<br><br>
-
-## 🐍 Gráfico de Atividades
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimoneFrez&theme=github-dark&area=true&hide_border=true&custom_title=Minhas%20Contribuições%20Diárias" alt="Activity Graph" width="100%"> </p>
 
 
 

@@ -84,8 +84,38 @@ API REST para agendamento de serviços de pequenos negócios (barbearias, clíni
 
 [🔗 Ver Repositório](https://github.com/SimoneFrez/CRUD-agendador-horarios.git)
 
+
 ---
 
+### 👥 Sistema de Gestão de Clientes | API REST em C# e .NET 8
+API REST para cadastro de clientes, com criação (com validação de nome e e-mail na regra de domínio), listagem de clientes ativos e desativação por exclusão lógica. Usa Entity Framework Core com SQLite e migrations, documentação com Swagger, testes unitários com xUnit e pipeline de CI no GitHub Actions que compila e roda os testes a cada push e pull request. Código separado em projetos de domínio, API e testes.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/xUnit-512BD4?style=flat" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+
+[🔗 Ver Repositório](https://github.com/SimoneFrez/Sistema-de-Gestao-de-Clientes.git)
+
+
+---
+
+### 🌐 Landing Page Freelancer | Formulário com Busca de CEP (ViaCEP)
+Landing page em HTML, CSS e JavaScript puro, com formulário de contato e preenchimento automático de endereço (rua, bairro e cidade) a partir do CEP, consumindo a API pública ViaCEP com `fetch` e `async/await`, com validação do CEP e tratamento de erros. Publicada no GitHub Pages.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/ViaCEP_API-4CAF50?style=flat" />
+<img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white" />
+
+[🔗 Ver Repositório](https://github.com/SimoneFrez/FullstackFreela.git) · [🌍 Ver Demo](https://simonefrez.github.io/FullstackFreela/)
 
 
 <br><br>

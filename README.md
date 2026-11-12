@@ -70,6 +70,18 @@ const simoneFrez = {
 
 ## 🚀 Projetos em Destaque
 
+### 💜 **Junta.ai | Assistente financeiro conversacional (Java, Spring Boot e React)**
+
+Aplicação web de organização financeira por conversa: o usuário registra receitas e despesas, consulta gastos e acompanha metas conversando com um assistente. Projeto final de formação, desenvolvido em equipe; atuei principalmente no **backend** (API REST em Java 21 e Spring Boot 3.5, com autenticação JWT, PostgreSQL e migrations Flyway), na integração com o serviço de IA e na **segurança e qualidade** (atualização de dependências, Trivy, Dependabot e testes JUnit com 80,90% de cobertura de linhas). O backend valida e executa as operações financeiras; a IA apenas interpreta e sugere. Em produção.
+
+**Tech Stack:**
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+🌍 [Ver Site](https://junta-ai.com) · 🔒 Código em repositório privado (demonstração em entrevista)
+
+---
+
 ### 📅 CRUD Agendador de Horários | API REST em Java e Spring Boot
 API REST para agendamento de serviços de pequenos negócios (barbearias, clínicas e salões), com criação, consulta da agenda por dia, alteração e cancelamento de agendamentos. Possui regra de negócio que impede o agendamento do mesmo serviço em horário já ocupado, com código organizado em camadas (controller, service, repository e entity).
 
